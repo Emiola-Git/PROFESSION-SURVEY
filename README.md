@@ -23,13 +23,13 @@ IV. Industry Trends and Insights: Present up-to-date industry trends and market 
 Provide insights on salary benchmarks, hiring trends, and emerging job opportunities.
 
 ### TECHNOLOGY STACK:
-Data Storage: Excel (for storing professional data and performance metrics)
-Visualization Tools: Power BI
+Data Storage: Excel (for storing professional data and performance metrics)                
+Visualization Tools: Power BI  
 Integration: LinkedIn API (for career data), various HR platforms for recruitment data
-
+  
 ### TARGETTED AUDIENCE:
 I.   HR Managers and Recruiters: For tracking and evaluating employee performance, skill gaps, and recruitment strategies.
-II.  Professionals and Job Seekers: To monitor career progression, identify opportunities for skill development, and find suitable job openings.
+II.  Professionals and Job Seekers: To monitor career progression, identify opportunities for skill development, and find suitable job openings.  
 III. Educational Institutions and Career Counselors: To help students and individuals align their career choices with industry demands and job opportunities.
 
 #### BENEFITS:
