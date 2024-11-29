@@ -1,13 +1,13 @@
-#### PROFESSION-SURVEY
+# PROFESSION-SURVEY
 
-#### OBJECTIVE: 
+## OBJECTIVE: 
 The purpose of this dashboard is to provide a centralized platform for tracking and analyzing data related to various professions.
 It aims to help organizations, HR departments, and individual professionals monitor career growth, performance metrics, industry trends, and skills development.
 By utilizing this dashboard, users can make informed, data-driven decisions to improve job performance, recruitment strategies and career planning.
 
 ![WhatsApp Image 2024-09-19 at 06 39 55](https://github.com/user-attachments/assets/c71c9fdd-174d-4aaf-ab55-e79c3f507d3e)
 
-#### SCOPE: 
+## SCOPE: 
 This dashboard will cover the following core functionalities:
 
 I. Career Progression Tracking: Track the professional growth and milestones of employees or individuals in different career fields.
