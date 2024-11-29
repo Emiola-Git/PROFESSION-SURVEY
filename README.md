@@ -28,8 +28,8 @@ Visualization Tools: Power BI
 Integration: LinkedIn API (for career data), various HR platforms for recruitment data
   
 ### TARGETTED AUDIENCE:
-I.   HR Managers and Recruiters: For tracking and evaluating employee performance, skill gaps, and recruitment strategies.
-II.  Professionals and Job Seekers: To monitor career progression, identify opportunities for skill development, and find suitable job openings.  
+I.   HR Managers and Recruiters: For tracking and evaluating employee performance, skill gaps, and recruitment strategies.          
+II.  Professionals and Job Seekers: To monitor career progression, identify opportunities for skill development, and find suitable job openings.
 III. Educational Institutions and Career Counselors: To help students and individuals align their career choices with industry demands and job opportunities.
 
 #### BENEFITS:
